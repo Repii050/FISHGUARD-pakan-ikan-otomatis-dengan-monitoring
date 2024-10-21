@@ -12,7 +12,12 @@
     <div class="container">
         <h1>Rancang bangun pakan ikan otomatis dengan monitoring realtime </h1>
         <p>Ikan Hias dikenal sebagai salah satu spesies ikan yang banyak di budidayakan dan memiliki nilai ekonomis tinggi. Namun, ikan Hias juga memerlukan kondisi lingkungan yang sangat spesifik dan stabil agar dapat tumbuh dengan baik. Fluktuasi suhu air, perubahan kadar pH, serta rendahnya kadar oksigen dalam air dapat berdampak negatif pada kesehatan ikan.</p>
-        <h2>Daftar Nama Anggota Team</h2>
+        <h1>Didukung Oleh :</h1>
+<p> Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)</p>
+<p>Mata kuliah : IoT dan Jaringan Sensor </p><br>
+<p>Program Studi : D4 Teknik Elektronika</p><br>
+<p>Politeknik Elektronika Negeri Surabaya</p><br>
+        <h2>Daftar Nama Anggota Team</h2>  
     <table>
         <thead>
             <tr>
@@ -75,7 +80,23 @@
             </tr>
         </tbody>
     </table>
-   
+<h1>Hardware </h1>
+<p>Berikut ini adalah hasil skematik rangkaian FishGuard menggunakan software Eagle.</p>
+        
+<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Hardware/Annotation%202024-10-21%20083655.png" width = 600><br>
+ <p>Berikut ini adalah hasil Board PCB rangkaian FishGuard menggunakan software Eagle.</p><br>                                                                                                                                                               
+<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Hardware/Annotation%202024-10-21%20083723.png" width = 600><br>
+
+<h1>Desain 3D </h1>
+1. Desain 3D Tampak Depan <br>
+<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Atas.png" width = 800>
+
+2. Desain 3D Tampak Samping <br>
+<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Samping.png"  width = 800 >
+
+3. Desain 3D Tampak Belakang <br>
+<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Belakang.png" width = 800>
+
 
 
 
