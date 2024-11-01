@@ -40,7 +40,7 @@
             </tr>
             <tr>
                 <td align = center>2</td>
-                <td>I Gede Wahyu </td>
+                <td>I Gede Wahyu Satria Nugraha </td>
                 <td>2122600033</td>
                 <td>UI/UX Desain</td>
                 <td>Gedewsnnn</td>
