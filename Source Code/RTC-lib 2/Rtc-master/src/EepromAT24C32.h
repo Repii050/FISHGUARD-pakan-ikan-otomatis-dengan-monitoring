@@ -50,7 +50,6 @@ public:
     {
         _wire.begin(sda, scl);
     }
-
     uint8_t LastError()
     {
         return _lastError;
@@ -69,7 +68,6 @@ public:
        
         return value;
     }
-
     // note: this method will write within a single page of eeprom.
     // Pages are 32 bytes (5 bits), so writing past a page boundary will
     // just wrap within the page of the starting memory address.  
@@ -98,7 +96,6 @@ public:
         
         return countWritten;
     }
-
     // reading data does not wrap within pages, but due to only using
     // 12 (32K) or 13 (64K) bits are used, they will wrap within the memory limits
     // of the installed EEPROM
@@ -129,7 +126,6 @@ public:
 
         return countRead;
     }
-
 private:
     const uint8_t _address;
     
