@@ -1,13 +1,15 @@
 # Video Pengujian Komponen
 
-Berikut adalah beberapa video yang mendemonstrasikan pengujian berbagai komponen sistem FishGuard:
+Berikut adalah beberapa video yang mendemonstrasikan pengujian berbagai komponen sistem FishGuard. Video-video ini dapat diputar langsung dari GitHub setelah link yang kosong diisi dengan URL video yang telah diunggah.
 
-| Pengujian Servo | Pengujian Sensor Ultrasonic HC-SR04 |
-| --- | --- |
-| [![FishGuard - Pengujian Servo](https://img.youtube.com/vi/so1Q0JGrFqs/hqdefault.jpg)](https://youtube.com/shorts/so1Q0JGrFqs) | [![FishGuard - Pengujian Sensor Ultrasonic HC-SR04](https://img.youtube.com/vi/BEghkpv-a9c/hqdefault.jpg)](https://youtube.com/shorts/BEghkpv-a9c) |
-| [FishGuard - Pengujian Servo](https://youtube.com/shorts/so1Q0JGrFqs) | [FishGuard - Pengujian Sensor Ultrasonic HC-SR04](https://youtube.com/shorts/BEghkpv-a9c) |
+## FishGuard - Pengujian Servo
+- 
 
-| Pengujian Sensor Suhu DB18B20 | Pengujian Sensor TDS Meter |
-| --- | --- |
-| [![FishGuard - Pengujian Sensor Suhu DB18B20](https://img.youtube.com/vi/GRMajEtZu9U/hqdefault.jpg)](https://youtube.com/shorts/GRMajEtZu9U) | [![FishGuard - Pengujian Sensor TDS Meter](https://img.youtube.com/vi/mBj6UEZTyug/hqdefault.jpg)](https://youtu.be/mBj6UEZTyug) |
-| [FishGuard - Pengujian Sensor Suhu DB18B20](https://youtube.com/shorts/GRMajEtZu9U) | [FishGuard - Pengujian Sensor TDS Meter](https://youtu.be/mBj6UEZTyug) |
+## FishGuard - Pengujian Sensor Ultrasonic HC-SR04
+- 
+
+## FishGuard - Pengujian Sensor DB18B20 Suhu
+https://github.com/user-attachments/assets/f8e08aa3-e3c8-4e6e-869c-6c9238689587
+
+## FishGuard - Pengujian Sensor TDS Meter
+- 
