@@ -1,6 +1,6 @@
 # Video Pengujian Komponen
 
-Berikut adalah beberapa video yang mendemonstrasikan pengujian berbagai komponen sistem FishGuard. Video-video ini dapat diputar langsung dari GitHub setelah link yang kosong diisi dengan URL video yang telah diunggah.
+Berikut adalah beberapa video serta progam yang digunakan dalam pengujian berbagai komponen sistem FishGuard.
 
 ## FishGuard - Pengujian Servo
 https://github.com/user-attachments/assets/23995870-86eb-4068-b8aa-cf2c34f3a0c6
