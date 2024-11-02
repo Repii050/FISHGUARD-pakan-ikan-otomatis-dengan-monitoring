@@ -1,15 +1,14 @@
-# Video Pengujian Komponen
+# Desain Fish Guard
 
-Berikut adalah beberapa video yang mendemonstrasikan pengujian berbagai komponen sistem FishGuard. Video-video ini dapat diputar langsung dari GitHub setelah link yang kosong diisi dengan URL video yang telah diunggah.
+Berikut adalah beberapa Desain Dari 3D alat yang kami akan implementasikan :
 
-## FishGuard - Pengujian Servo
-https://github.com/user-attachments/assets/23995870-86eb-4068-b8aa-cf2c34f3a0c6
+## FishGuard - Desain Tampak Atas
+![Tampak Atas](https://github.com/user-attachments/assets/0db572d3-7df6-49b4-be37-7c4a7a500f5d)
 
-## FishGuard - Pengujian Sensor Ultrasonic HC-SR04
-https://github.com/user-attachments/assets/480f4f2f-f9c4-4a9e-84b7-378d93c347e1
+## FishGuard - Desain Tampak Samping
+![Tampak Samping](https://github.com/user-attachments/assets/66a47be5-a072-474f-864c-5c50c707b397)
 
-## FishGuard - Pengujian Sensor DB18B20 Suhu
-https://github.com/user-attachments/assets/f8e08aa3-e3c8-4e6e-869c-6c9238689587
+## FishGuard - Desain Tampak Belakang
+![Tampak Belakang](https://github.com/user-attachments/assets/9f5ad81d-f403-4952-9f43-cf7788e040b7)
 
-## FishGuard - Pengujian Sensor TDS Meter
-https://github.com/user-attachments/assets/90e463b5-ef5b-4650-b92f-95f3acb5ff2d
+
