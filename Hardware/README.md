@@ -5,7 +5,7 @@ Berikut adalah beberapa video serta progam yang digunakan dalam pengujian berbag
 ## FishGuard - Pengujian Servo
 https://github.com/user-attachments/assets/23995870-86eb-4068-b8aa-cf2c34f3a0c6
 
-### Berikut Program Pengujian servo
+### Program Pengujian servo
 Program ini berfungsi untuk melakukan pengujian dengan mengendalikan sebuah servo motor menggunakan Arduino, menggerakkannya dari sudut 0° hingga 180° dan kembali, sambil menampilkan posisi aktuator pada Serial Monitor.
 ```cpp
 #include <Servo.h>
@@ -48,9 +48,8 @@ void loop() {
 ## FishGuard - Pengujian Sensor Ultrasonic HC-SR04
 https://github.com/user-attachments/assets/480f4f2f-f9c4-4a9e-84b7-378d93c347e1
 
-### Berikut Program Pengujian Sensor Ultrasonic HC-SR04
-Program ini berfungsi untuk melakukan pengujian dengan mengendalikan sebuah servo motor menggunakan Arduino, menggerakkannya dari sudut 0° hingga 180° dan kembali, sambil menampilkan posisi aktuator pada Serial Monitor.
-
+### Program Pengujian Sensor Ultrasonic HC-SR04
+Program ini berfungsi untuk melakukan pengujian dengan mengukur jarak.
 ```cpp
 // Mendefinisikan pin Trig dan Echo
 const int trigPin = 9;
@@ -97,7 +96,7 @@ void loop() {
 ## FishGuard - Pengujian Sensor DS18B20 Suhu
 https://github.com/user-attachments/assets/f8e08aa3-e3c8-4e6e-869c-6c9238689587
 
-### Berikut Program Sensor DS18B20 Suhu
+### Program Sensor DS18B20 Suhu
 Program ini berfungsi untuk melakukan pengujian dengan membaca suhu dari sensor DS18B20 menggunakan Arduino, dan menampilkan hasilnya di Serial Monitor. Sensor ini terhubung melalui protokol OneWire.
 ```cpp
 #include <OneWire.h>
@@ -139,7 +138,7 @@ void loop() {
 ## FishGuard - Pengujian Sensor TDS Meter
 https://github.com/user-attachments/assets/90e463b5-ef5b-4650-b92f-95f3acb5ff2d
 
-### Berikut Program Pengujian Sensor TDS Meter
+### Program Pengujian Sensor TDS Meter
 Program ini berfungsi untuk melakukan pengujian dengan membaca nilai Total Dissolved Solids (TDS) dalam larutan menggunakan sensor TDS yang terhubung ke pin analog Arduino. TDS mengukur jumlah partikel terlarut (seperti mineral dan garam) dalam air, biasanya dinyatakan dalam ppm (parts per million).
 ```cpp
 // Mendefinisikan pin analog yang terhubung ke sensor TDS
