@@ -172,4 +172,9 @@ void loop() {
   delay(1000);  // Membaca nilai TDS setiap 1 detik
 }
 ```
-
+## FishGuard - Schematic
+![WhatsApp Image 2024-11-03 at 12 50 31 AM (1)](https://github.com/user-attachments/assets/643c4b5d-407f-4f4f-8e89-340295ae1b01)
+## FishGuard - PCB Bawah
+![WhatsApp Image 2024-11-03 at 12 49 42 AM (1)](https://github.com/user-attachments/assets/767fb568-114a-40cb-a19b-5c52bac9cc2b)
+## FishGuard - PCB Atas
+![WhatsApp Image 2024-11-03 at 12 49 16 AM (1)](https://github.com/user-attachments/assets/f6bd6fdc-ea4b-4cb8-9d68-19df0edf0196)
