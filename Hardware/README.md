@@ -178,3 +178,5 @@ void loop() {
 ![WhatsApp Image 2024-11-03 at 12 49 42 AM (1)](https://github.com/user-attachments/assets/767fb568-114a-40cb-a19b-5c52bac9cc2b)
 ## FishGuard - PCB Atas
 ![WhatsApp Image 2024-11-03 at 12 49 16 AM (1)](https://github.com/user-attachments/assets/f6bd6fdc-ea4b-4cb8-9d68-19df0edf0196)
+## Progres 1
+![IMG-20241108-WA0012](https://github.com/user-attachments/assets/01809c87-66f4-4baf-82ae-12d51886e9bc)
