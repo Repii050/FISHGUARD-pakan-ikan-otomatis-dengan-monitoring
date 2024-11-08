@@ -1,104 +1,15 @@
-# FISHGUARD
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <img src= "https://github.com/Repii050/pakan-ikan-otomati-dengan-monitoring/blob/main/FishGuard.jpg"  width = 400>
+# Video Pengujian Komponen
 
-</head>
-<body>
-    <div class="container">
-        <h1>Rancang bangun pakan ikan otomatis dengan monitoring realtime </h1>
-        <p>Ikan Hias dikenal sebagai salah satu spesies ikan yang banyak di budidayakan dan memiliki nilai ekonomis tinggi. Namun, ikan Hias juga memerlukan kondisi lingkungan yang sangat spesifik dan stabil agar dapat tumbuh dengan baik. Fluktuasi suhu air, perubahan kadar pH, serta rendahnya kadar oksigen dalam air dapat berdampak negatif pada kesehatan ikan.</p>
-        <h1>Didukung Oleh :</h1>
-<p> Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)</p>
-<p>Mata kuliah : IoT dan Jaringan Sensor </p><br>
-<p>Program Studi : D4 Teknik Elektronika</p><br>
-<p>Politeknik Elektronika Negeri Surabaya</p><br>
-        <h2>Daftar Nama Anggota Team</h2>  
-    <table>
-        <thead>
-            <tr>
-                <th>Nomor</th>
-                <th>Nama</th>
-                <th>NRP</th>
-                <th>Jobdesk</th>
-                <th>Nama Akun</th>
-                <th>Link Akun</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align = center>1</td>
-                <td>Alwansyah Muhammad M.E</td>
-                <td>2122600031</td>
-                <td>Project Sales</td>
-                <td>alwansyahendrawan</td>
-                <td>https://github.com/alwansyahendrawan</td>
-            </tr>
-            <tr>
-                <td align = center>2</td>
-                <td>I Gede Wahyu Satria Nugraha </td>
-                <td>2122600033</td>
-                <td>UI/UX Desain</td>
-                <td>Gedewsnnn</td>
-                <td>https://github.com/Gedewsnnn</td>
-            </tr>
-            <tr>
-                <td align = center>3</td>
-                <td>Rafi Satrio</td>
-                <td>2122600050</td>
-                <td>Hardware Developer</td>
-                <td>Repii050</td>
-                <td>https://github.com/Repii050</td>
-            </tr>
-                <tr>
-                <td align = center>4</td>
-                <td>Dewangga Pratama Ikko Prasetyo</td>
-                <td>2122600052</td>
-                <td>Data Analyst</td>
-                <td>DewanggaPIP</td>
-                <td>https://github.com/DewanggaPIP</td>
-            </tr>
-                <tr>
-                <td align = center>5</td>
-                <td>Wildan Aldi Nugroho</td>
-                <td>2122600055</td>
-                <td>Software Developer</td>
-                <td>Wildan-Aldi</td>
-                <td>https://github.com/Wildan-Aldi</td>
-            </tr>
-             <tr>
-                <td align = center>6</td>
-                <td> Dera Berlian </td>
-                <td>2122600057</td>
-                <td>Project Manager</td>
-                <td>DeraBerlian</td>
-                <td>https://github.com/DeraBerlian</td>
-            </tr>
-        </tbody>
-    </table>
-<h1>Hardware </h1>
-<p>Berikut ini adalah hasil skematik rangkaian FishGuard menggunakan software Eagle.</p>
-        
-<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Hardware/Annotation%202024-10-21%20083655.png" width = 600><br>
- <p>Berikut ini adalah hasil Board PCB rangkaian FishGuard menggunakan software Eagle.</p><br>                                                                                                                                                               
-<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Hardware/Annotation%202024-10-21%20083723.png" width = 600><br>
+Berikut adalah beberapa video yang mendemonstrasikan pengujian berbagai komponen sistem FishGuard. Video-video ini dapat diputar langsung dari GitHub setelah link yang kosong diisi dengan URL video yang telah diunggah.
 
-<h1>Desain 3D </h1>
-1. Desain 3D Tampak Depan <br>
-<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Atas.png" width = 800>
+## FishGuard - Pengujian Servo
+https://github.com/user-attachments/assets/23995870-86eb-4068-b8aa-cf2c34f3a0c6
 
-2. Desain 3D Tampak Samping <br>
-<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Samping.png"  width = 800 >
+## FishGuard - Pengujian Sensor Ultrasonic HC-SR04
+https://github.com/user-attachments/assets/480f4f2f-f9c4-4a9e-84b7-378d93c347e1
 
-3. Desain 3D Tampak Belakang <br>
-<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Belakang.png" width = 800>
+## FishGuard - Pengujian Sensor DB18B20 Suhu
+https://github.com/user-attachments/assets/f8e08aa3-e3c8-4e6e-869c-6c9238689587
 
-# Desain Rancangan
-![Desain Rancangan](https://github.com/user-attachments/assets/e47a4411-f3f9-4a1e-b459-76dd400a7944)
-
-
-
+## FishGuard - Pengujian Sensor TDS Meter
+https://github.com/user-attachments/assets/90e463b5-ef5b-4650-b92f-95f3acb5ff2d
