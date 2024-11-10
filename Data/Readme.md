@@ -61,3 +61,24 @@ TDS dapat membantu menilai kualitas air. Misalnya, air minum biasanya memiliki T
 
 ### Mengukur TDS
 Mengukur TDS (dalam PPM) bisa dilakukan dengan alat **TDS meter** yang mengukur konduktivitas listrik dalam air, yang kemudian dikonversi ke nilai PPM.
+
+# Batas PPM atau TDS dalam Air untuk Ikan Hias
+
+![file-l6oI0yffsIVhcVG10uNY8myO](https://github.com/user-attachments/assets/d2e407b2-6ff8-4833-b21f-f22e8e73515c)
+
+Batas **PPM** (parts per million) atau **TDS** (Total Dissolved Solids) dalam air untuk ikan hias bervariasi tergantung pada jenis ikannya. Namun, secara umum terdapat kisaran yang aman untuk sebagian besar ikan hias air tawar dan air laut:
+
+### 1. Ikan Hias Air Tawar
+- **Kisaran ideal**: 50 - 250 PPM.
+- **Kisaran aman**: Hingga sekitar 300 - 500 PPM, tergantung jenis ikan.
+  
+Ikan hias air tawar, seperti guppy, neon tetra, dan betta, umumnya lebih nyaman pada TDS di bawah 300 PPM. PPM yang terlalu tinggi bisa menyebabkan stres atau masalah kesehatan bagi ikan.
+
+### 2. Ikan Hias Air Laut
+- **Kisaran ideal**: 350 - 450 PPM.
+  
+Air laut secara alami memiliki kadar TDS yang jauh lebih tinggi, sekitar 30.000 hingga 35.000 PPM, karena kandungan garamnya. Namun, pengaturan PPM dalam akuarium air laut lebih menitikberatkan pada menjaga kualitas air dan kadar garam yang stabil daripada kadar PPM secara umum.
+
+### Efek Jika PPM di Luar Batas
+- **PPM terlalu rendah**: Air mungkin kekurangan mineral penting yang dibutuhkan oleh ikan dan tanaman.
+- **PPM terlalu tinggi**: Dapat menyebabkan stres pada ikan, mempengaruhi sistem osmoregulasi (pengaturan keseimbangan air dalam tubuh ikan), dan meningkatkan risiko penyakit.
