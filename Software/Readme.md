@@ -1,5 +1,5 @@
 ## Aktifasi SSL/TLS di Broker HiveMQ Cloud
-Jika kamu menggunakan HiveMQ Cloud (layanan broker MQTT yang di-host oleh HiveMQ) dan ingin mengaktifkan SSL/TLS untuk koneksi aman, berikut langkah-langkahnya:
+Jika menggunakan HiveMQ Cloud (layanan broker MQTT yang di-host oleh HiveMQ) dan ingin mengaktifkan SSL/TLS untuk koneksi aman, berikut adalah langkah-langkahnya:
 ### 1. Buat Akun dan Masuk ke HiveMQ Cloud
    * Kunjungi situs HiveMQ Cloud.
    * Buat akun atau login jika sudah memiliki akun.
@@ -8,11 +8,9 @@ Jika kamu menggunakan HiveMQ Cloud (layanan broker MQTT yang di-host oleh HiveMQ
    * Di dashboard, klik "Create Cluster" untuk membuat broker MQTT baru jika belum ada. Jika sudah ada cluster, pilih cluster yang ingin kamu konfigurasi.
 ![cluster](https://github.com/user-attachments/assets/750dd740-9dac-4716-9a62-1035a37236d5)
 
-   
    * Setelah memilih atau membuat cluster, kamu akan masuk ke halaman detail cluster.
 ![Screenshot 2024-11-10 160504](https://github.com/user-attachments/assets/dba830f6-464f-493e-9fc2-14582ac12847)
 
-   
 ### 3. Mengaktifkan SSL/TLS di HiveMQ Cloud
 HiveMQ Cloud secara otomatis mengaktifkan SSL/TLS untuk koneksi aman. Kamu tidak perlu secara manual membuat atau mengunggah sertifikat, karena HiveMQ Cloud menggunakan sertifikat yang diterbitkan oleh Let's Encrypt atau penyedia sertifikat lainnya untuk mengamankan koneksi.
 1. Port TLS: HiveMQ Cloud biasanya menyediakan dua port:
@@ -40,13 +38,11 @@ Aktifkan opsi untuk SSL/TLS dengan mencentang atau memilih opsi yang sesuai (bia
 
 ![Screenshot 2024-11-09 194808](https://github.com/user-attachments/assets/ae554ad8-3c07-42e6-8780-1978a56a86f7)
 
-
 3. Connection Settings
    
 Pada navigasi Web client isi username dan password sesuai dengan Credential yang sudah dibuat pada autentification. Buatlah topik yang misalnya`Test` kemudian subcribe dan ubah Qos menjadi 2. 
 
 ![Screenshot 2024-11-09 200002](https://github.com/user-attachments/assets/1dd31ed6-2741-43ff-ae31-be3509f054cd)
-
 
 setelah itu klik tombol connect untuk mengaktifkan koneksi broker.
 
