@@ -94,11 +94,12 @@
 3. Desain 3D Tampak Belakang <br>
 <img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Belakang.png" width = 800>
 
+# TIMELINE PENGERJAAN
+![image](https://github.com/user-attachments/assets/3a6fa57c-a295-4268-bacd-761a98e29550)
+
 # Progres 1
 ![IMG-20241108-WA0012](https://github.com/user-attachments/assets/aa1955cb-9ba4-4b6c-87d8-f5714ee65db1)
 
 # ANGGOTA KELOMPOK FISH GUARD
 ![WhatsApp Image 2024-11-08 at 14 44 50](https://github.com/user-attachments/assets/86129ed1-53be-403c-bab1-cb6705c0792e)
 
-# TIMELINE PENGERJAAN
-![image](https://github.com/user-attachments/assets/3a6fa57c-a295-4268-bacd-761a98e29550)
