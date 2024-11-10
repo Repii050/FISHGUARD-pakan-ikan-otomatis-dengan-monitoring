@@ -43,3 +43,21 @@ Menjaga suhu yang stabil sesuai dengan jenis ikan hias yang dipelihara sangat pe
 - **Pemanas atau Pendingin Akuarium**: Sesuaikan perangkat ini untuk memastikan kondisi suhu ideal sesuai jenis ikan.
   
 Menjaga suhu yang sesuai sangat penting untuk kesehatan dan kesejahteraan ikan hias dalam akuarium.
+# PPM dan TDS dalam Pengukuran Kualitas Air
+
+**PPM (parts per million)** dan **TDS (Total Dissolved Solids)** adalah dua konsep yang terkait erat dalam pengukuran kualitas air, terutama untuk mengetahui berapa banyak zat padat yang larut dalam air.
+
+### 1. TDS (Total Dissolved Solids)
+TDS mengukur jumlah total zat padat terlarut dalam air, termasuk mineral, garam, logam, dan zat-zat kimia lain yang terlarut dalam air. TDS dinyatakan dalam satuan **PPM**.
+
+### 2. PPM (Parts Per Million)
+PPM adalah satuan untuk menyatakan konsentrasi zat dalam larutan. Satu PPM berarti ada satu bagian zat terlarut dalam satu juta bagian larutan. Dalam konteks TDS, satuan **PPM** menyatakan berapa banyak partikel padat terlarut dalam satu juta bagian air.
+
+### 3. Hubungan TDS dan PPM
+Secara sederhana, **PPM** adalah cara untuk mengekspresikan konsentrasi **TDS**. Jika sebuah air memiliki TDS 100 PPM, artinya ada 100 bagian zat padat terlarut dalam setiap satu juta bagian air.
+
+### 4. Pentingnya TDS dalam Kualitas Air
+TDS dapat membantu menilai kualitas air. Misalnya, air minum biasanya memiliki TDS rendah, karena kandungan mineral dan zat lainnya dalam jumlah besar bisa mengubah rasa atau bahkan membahayakan kesehatan. Sebaliknya, air yang terlalu murni atau dengan TDS sangat rendah mungkin kurang enak rasanya atau bahkan tidak menyehatkan karena kekurangan mineral.
+
+### Mengukur TDS
+Mengukur TDS (dalam PPM) bisa dilakukan dengan alat **TDS meter** yang mengukur konduktivitas listrik dalam air, yang kemudian dikonversi ke nilai PPM.
