@@ -84,7 +84,7 @@
 <p>Berikut ini adalah hasil skematik rangkaian FishGuard menggunakan software Eagle.</p>
         
 <img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Hardware/Annotation%202024-10-21%20083655.png" width = 600><br>
- <p>Berikut ini adalah hasil Board PCB rangkaian FishGuard menggunakan software Eagle.</p><br>                                                                                                                                                               
+ <p>Berikut ini adalah hasil Board PCB rangkaian FishGuard menggunakan software Eagle.</p><br>                                                                                                                                                          
 <img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Hardware/Annotation%202024-10-21%20083723.png" width = 600><br>
 <h1>Desain 3D </h1>
 1. Desain 3D Tampak Depan <br>
