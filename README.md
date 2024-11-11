@@ -88,7 +88,7 @@
 <img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Hardware/Annotation%202024-10-21%20083723.png" width = 600><br>
 <h1>Desain 3D </h1>
 1. Desain 3D Tampak Depan <br>
-<img src="https://github.com/DeraBerlian/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Atas.png" width = 800>
+<img src="https://github.com/DeraBerlian/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Atas.png](https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Design%203D%20Tampak%20Atas.png" width = 800>
 2. Desain 3D Tampak Samping <br>
 <img src="https://github.com/DeraBerlian/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Samping.png"  width = 800 >
 3. Desain 3D Tampak Belakang <br>
