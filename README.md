@@ -92,7 +92,7 @@
 2. Desain 3D Tampak Samping <br>
 <img src="https://github.com/DeraBerlian/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Samping.png"  width = 800 >
 3. Desain 3D Tampak Belakang <br>
-<img src="https://github.com/DeraBerlian/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Tampak%20Belakang.png" width = 800>
+<img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Design%203D%20Tampak%20Belakang.png" width = 800>
 
 # ANGGOTA KELOMPOK FISH GUARD
 ![WhatsApp Image 2024-11-08 at 14 44 50](https://github.com/user-attachments/assets/86129ed1-53be-403c-bab1-cb6705c0792e)
