@@ -45,28 +45,30 @@ Dalam penegmbangan aplikasi untuk projek FishGuard kami menggunakan kodular
 
 ---
 
-## **Cara Menggunakan Kodular**
+## **Langkah-Langkah Menggunakan Kodular**
 
-1. **Buka browser internet lalu search kodular**
+1. **Buka browser internet lalu search kodular**  
    ![image](https://github.com/user-attachments/assets/b6d544fe-72db-436f-9bb8-9f56095a956c)
+   Kunjungi website asli kodular
    
-3. **Login terlebih dahulu**
+3. **Login terlebih dahulu**  
    ![image](https://github.com/user-attachments/assets/3b125571-535d-4ff4-9038-585b904ad326)
 
    Klik **Create New Project**, beri nama proyek, dan mulailah mendesain antarmuka aplikasi.
 
-5. **Tambahkan Komponen**  
-   Gunakan komponen yang tersedia, seperti tombol, label, grafik, dan lainnya.  
+5. **Create New Project**
+   ![CRATE](https://github.com/user-attachments/assets/555a276d-784d-43a9-b812-d12097e3bbcf)
+   Beri nama projek sesuai dengan tema atau topik yang ingin dikembangkan menjadi aplikasi  
    Jika ingin menambahkan fitur spesifik seperti komunikasi IoT, gunakan **extension**.
 
-6. **Blok Logika (Blocks)**  
+7. **Blok Logika (Blocks)**  
    Masuk ke tab "Blocks" untuk menambahkan logika aplikasi menggunakan blok pemrograman visual.  
    Contoh logika: Menghubungkan ke MQTT atau mengirim data melalui API.
 
-7. **Uji Coba Aplikasi**  
+8. **Uji Coba Aplikasi**  
    Gunakan aplikasi **Kodular Companion** di perangkat Android untuk menguji aplikasi Anda secara real-time.
 
-8. **Export Aplikasi**  
+9. **Export Aplikasi**  
    Setelah selesai, export aplikasi ke format `.apk` untuk diinstal di perangkat Android Anda.
 
 ---
