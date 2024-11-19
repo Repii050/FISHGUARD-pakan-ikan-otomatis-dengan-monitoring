@@ -1,1 +1,93 @@
+Dalam penegmbangan aplikasi untuk projek FishGuard kami menggunakan kodular
 
+## **Langkah-Langkah Pengembangan Aplikasi Menggunakan Kodular**
+
+
+# **Kodular**
+
+![c630b08c4f77893996caa2fe8e2ad2f7ac66c1b5_2_690x345-2](https://github.com/user-attachments/assets/5999cf09-269b-43de-8adc-c540e9fafea6)
+
+
+**Kodular** adalah platform berbasis **drag-and-drop** yang memungkinkan untuk mengembangkan aplikasi Android tanpa harus menulis kode secara langsung. Platform ini cocok untuk pemula maupun profesional yang ingin mengembangkan aplikasi dengan cepat dan mudah.
+
+---
+
+## **Fitur Utama Kodular**
+
+- **Antarmuka Drag-and-Drop**  
+  Membuat aplikasi semudah menyusun blok dengan antarmuka visual.  
+  Komponen UI yang lengkap seperti tombol, label, grafik, dan lainnya.
+
+- **Blok Pemrograman (Blocks)**  
+  Menggunakan logika visual berbasis blok untuk menggantikan pemrograman teks.  
+  Memungkinkan implementasi logika kompleks dengan cara yang mudah dipahami.
+
+- **Komponen Lengkap untuk Aplikasi Modern**  
+  - **Database**: Firebase, TinyDB, dan Airtable.  
+  - **API**: Kemampuan untuk mengintegrasikan REST API.  
+  - **Media**: Audio, video, dan gambar.  
+  - **IoT**: Komponen untuk komunikasi MQTT dan koneksi perangkat IoT.
+
+- **Gratis**  
+  Kodular sepenuhnya gratis untuk digunakan dengan fitur premium opsional.
+
+- **Komunitas Aktif**  
+  Komunitas Kodular menyediakan dukungan, tutorial, dan saran untuk membantu pengembang.
+
+---
+
+## **Keunggulan Kodular**
+
+- **Tanpa Kode**: Tidak perlu pengalaman pemrograman untuk memulai.  
+- **Cepat dan Efisien**: Membuat prototipe aplikasi dalam hitungan menit.  
+- **Fleksibel**: Mendukung pengembangan aplikasi untuk berbagai kebutuhan, seperti IoT, e-commerce, atau game sederhana.  
+- **Cross-Platform**: Aplikasi yang dibuat dapat dijalankan di semua perangkat Android.
+
+---
+
+## **Cara Menggunakan Kodular**
+
+1. **Buka browser internet lalu search kodular**
+   ![image](https://github.com/user-attachments/assets/b6d544fe-72db-436f-9bb8-9f56095a956c)
+   
+3. **Login terlebih dahulu**
+   ![image](https://github.com/user-attachments/assets/3b125571-535d-4ff4-9038-585b904ad326)
+
+   Klik **Create New Project**, beri nama proyek, dan mulailah mendesain antarmuka aplikasi.
+
+5. **Tambahkan Komponen**  
+   Gunakan komponen yang tersedia, seperti tombol, label, grafik, dan lainnya.  
+   Jika ingin menambahkan fitur spesifik seperti komunikasi IoT, gunakan **extension**.
+
+6. **Blok Logika (Blocks)**  
+   Masuk ke tab "Blocks" untuk menambahkan logika aplikasi menggunakan blok pemrograman visual.  
+   Contoh logika: Menghubungkan ke MQTT atau mengirim data melalui API.
+
+7. **Uji Coba Aplikasi**  
+   Gunakan aplikasi **Kodular Companion** di perangkat Android untuk menguji aplikasi Anda secara real-time.
+
+8. **Export Aplikasi**  
+   Setelah selesai, export aplikasi ke format `.apk` untuk diinstal di perangkat Android Anda.
+
+---
+
+## **Sumber Daya dan Dukungan**
+
+- **Dokumentasi Resmi**  
+  Panduan lengkap Kodular tersedia di: [Kodular Docs](https://docs.kodular.io/).
+
+- **Komunitas Kodular**  
+  Diskusi, tutorial, dan bantuan: [Kodular Community](https://community.kodular.io/).
+
+- **Tutorial Video**  
+  Pelajari melalui video: Cari "Kodular Tutorial" di YouTube.
+
+---
+
+## **Lisensi**
+
+Kodular adalah platform gratis untuk digunakan. Semua hak cipta dimiliki oleh pengembang Kodular. Aplikasi yang Anda buat dengan Kodular sepenuhnya menjadi milik Anda.
+
+---
+
+Kodular adalah pilihan sempurna untuk pengembang yang ingin membuat aplikasi Android dengan mudah dan cepat. Selamat mencoba! 🚀
