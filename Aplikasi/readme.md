@@ -1,8 +1,3 @@
-Dalam penegmbangan aplikasi untuk projek FishGuard kami menggunakan kodular
-
-## **Langkah-Langkah Pengembangan Aplikasi Menggunakan Kodular**
-
-
 # **Kodular**
 
 ![c630b08c4f77893996caa2fe8e2ad2f7ac66c1b5_2_690x345-2](https://github.com/user-attachments/assets/5999cf09-269b-43de-8adc-c540e9fafea6)
@@ -46,50 +41,59 @@ Dalam penegmbangan aplikasi untuk projek FishGuard kami menggunakan kodular
 ---
 
 ## **Langkah-Langkah Menggunakan Kodular**
+1. **Buka browser internet lalu search kodular**  
+
+   ![image](https://github.com/user-attachments/assets/b6d544fe-72db-436f-9bb8-9f56095a956c)
+
+   Buka brower internet search **Kodular** lalu klik.
+
+2. **Login terlebih dahulu**  
+
+   ![image](https://github.com/user-attachments/assets/3b125571-535d-4ff4-9038-585b904ad326)
+
+   Lakukan login terlebih dahulu untuk mengakses website kodular.
+
+3. **Create New Project**  
+
+   ![CRATE](https://github.com/user-attachments/assets/555a276d-784d-43a9-b812-d12097e3bbcf)
+
+   Beri nama projek sesuai dengan tema atau topik yang ingin dikembangkan menjadi aplikasi.  
+
+---
+## **Langkah-Langkah Pengembangan Aplikasi Projek FishGuard Menggunakan Kodular**
 
 1. **Buka browser internet lalu search kodular**  
+
    ![image](https://github.com/user-attachments/assets/b6d544fe-72db-436f-9bb8-9f56095a956c)
-   Kunjungi website asli kodular
-   
-3. **Login terlebih dahulu**  
+
+   Beri nama projek sesuai dengan tema atau topik yang ingin dikembangkan menjadi aplikasi.  
+   Jika ingin menambahkan fitur spesifik seperti komunikasi IoT, gunakan **extension**.
+
+2. **Login terlebih dahulu**  
+
    ![image](https://github.com/user-attachments/assets/3b125571-535d-4ff4-9038-585b904ad326)
 
    Klik **Create New Project**, beri nama proyek, dan mulailah mendesain antarmuka aplikasi.
 
-5. **Create New Project**
+3. **Create New Project**  
+
    ![CRATE](https://github.com/user-attachments/assets/555a276d-784d-43a9-b812-d12097e3bbcf)
-   Beri nama projek sesuai dengan tema atau topik yang ingin dikembangkan menjadi aplikasi  
+
+   Beri nama projek sesuai dengan tema atau topik yang ingin dikembangkan menjadi aplikasi.  
    Jika ingin menambahkan fitur spesifik seperti komunikasi IoT, gunakan **extension**.
 
-7. **Blok Logika (Blocks)**  
+4. **Blok Logika (Blocks)**  
+
    Masuk ke tab "Blocks" untuk menambahkan logika aplikasi menggunakan blok pemrograman visual.  
    Contoh logika: Menghubungkan ke MQTT atau mengirim data melalui API.
 
-8. **Uji Coba Aplikasi**  
+5. **Uji Coba Aplikasi**  
+
    Gunakan aplikasi **Kodular Companion** di perangkat Android untuk menguji aplikasi Anda secara real-time.
 
-9. **Export Aplikasi**  
+6. **Export Aplikasi**  
+
    Setelah selesai, export aplikasi ke format `.apk` untuk diinstal di perangkat Android Anda.
 
----
 
-## **Sumber Daya dan Dukungan**
 
-- **Dokumentasi Resmi**  
-  Panduan lengkap Kodular tersedia di: [Kodular Docs](https://docs.kodular.io/).
-
-- **Komunitas Kodular**  
-  Diskusi, tutorial, dan bantuan: [Kodular Community](https://community.kodular.io/).
-
-- **Tutorial Video**  
-  Pelajari melalui video: Cari "Kodular Tutorial" di YouTube.
-
----
-
-## **Lisensi**
-
-Kodular adalah platform gratis untuk digunakan. Semua hak cipta dimiliki oleh pengembang Kodular. Aplikasi yang Anda buat dengan Kodular sepenuhnya menjadi milik Anda.
-
----
-
-Kodular adalah pilihan sempurna untuk pengembang yang ingin membuat aplikasi Android dengan mudah dan cepat. Selamat mencoba! 🚀
