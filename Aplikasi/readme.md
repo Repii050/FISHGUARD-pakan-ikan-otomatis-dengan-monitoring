@@ -59,5 +59,9 @@
 
    Beri nama projek sesuai dengan tema atau topik yang ingin dikembangkan menjadi aplikasi.  
 
+4. ## Video Pengujian
+   
+https://github.com/user-attachments/assets/f2d287b7-a031-463d-aec8-e6ebe25d54d5
+
 
 
