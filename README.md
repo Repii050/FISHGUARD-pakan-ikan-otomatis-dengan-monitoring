@@ -97,8 +97,7 @@
 <img src="https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/blob/main/Desain%20dan%20Perencanaan/Design%203D%20Tampak%20Belakang.png" width = 800>
 
 # ANGGOTA KELOMPOK FISH GUARD
-![WhatsApp Image 2024-12-02 at 8 34 22 AM](https://github.com/user-attachments/assets/ce97eb22-b089-4fe1-9c1d-284bed73331c)
-
+![WhatsApp Image 2024-12-02 at 8 34 23 AM](https://github.com/user-attachments/assets/09302b39-e9b0-4d17-9082-088e4ac2c1c7)
 
 # Fleyer
 ![WhatsApp Image 2024-12-02 at 8 44 45 AM](https://github.com/user-attachments/assets/0707bf6d-36ae-4c40-ba8c-e2e97cd0730e)
