@@ -103,4 +103,11 @@
 ![WhatsApp Image 2024-12-02 at 8 44 45 AM](https://github.com/user-attachments/assets/0707bf6d-36ae-4c40-ba8c-e2e97cd0730e)
 
 
+Link Video Iklan : 
+https://youtube.com/shorts/qlZNBy3aBwo?feature=share
 
+Link Video Pengujian Sistem : 
+https://youtu.be/G6Ex1cATNBE
+
+Link Video Presentasi : 
+https://youtu.be/gjWip73ETbg
