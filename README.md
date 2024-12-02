@@ -103,11 +103,19 @@
 ![WhatsApp Image 2024-12-02 at 8 44 45 AM](https://github.com/user-attachments/assets/0707bf6d-36ae-4c40-ba8c-e2e97cd0730e)
 
 
-Link Video Iklan : 
+# Link Video Iklan : 
 https://youtube.com/shorts/qlZNBy3aBwo?feature=share
 
-Link Video Pengujian Sistem : 
+# Link Video Pengujian Sistem : 
 https://youtu.be/G6Ex1cATNBE
 
-Link Video Presentasi : 
+# Link Video Presentasi : 
 https://youtu.be/gjWip73ETbg
+# Software Aplikasi
+https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree/main/Aplikasi
+# DATA 
+https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree/main/Data
+# Desain dan Perencanaan 
+https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree/main/Desain%20dan%20Perencanaan
+# Hardware
+https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree/main/Hardware
