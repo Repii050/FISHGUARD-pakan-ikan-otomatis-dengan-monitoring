@@ -118,4 +118,4 @@ https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree
 # Desain dan Perencanaan 
 https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree/main/Desain%20dan%20Perencanaan
 # Hardware
-https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree/main/Hardware
+https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree/main/Hardware#readme
