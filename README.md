@@ -119,3 +119,5 @@ https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree
 https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree/main/Desain%20dan%20Perencanaan
 # Hardware
 https://github.com/Repii050/FISHGUARD-pakan-ikan-otomatis-dengan-monitoring/tree/main/Hardware#readme
+# diagram sistem
+![Screenshot 2024-12-06 172711](https://github.com/user-attachments/assets/f7eacd0a-2e90-4e03-b891-f09c9ea61eb8)
